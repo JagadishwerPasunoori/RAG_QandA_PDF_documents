@@ -1,0 +1,9 @@
+langchain
+langchain-community
+openai
+faiss-cpu
+pypdf
+python-dotenv
+streamlit
+numpy==1.23.5
+
