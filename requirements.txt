@@ -1,9 +1,9 @@
-langchain
-langchain-community
-openai
-faiss-cpu
-pypdf
-python-dotenv
-streamlit
-numpy==1.23.5
+streamlit>=1.28.0
+langchain==0.0.346
+openai==0.28.1
+pypdf>=3.17.0
+faiss-cpu==1.7.4
+tiktoken==0.5.1
+python-dotenv>=1.0.0
+langchain-community==0.0.20
 
